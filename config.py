@@ -18,3 +18,4 @@ DEFAULT_TIME_SLOTS = [
 REMINDER_HOURS_BEFORE = 4
 # test
 #test3
+#изменение
